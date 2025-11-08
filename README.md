@@ -75,3 +75,6 @@ Use these settings when adding a monitor:</b>
 - Thanks to [⌯ FʀᴏɴᴛMᴀɴ | ×͜× |](https://t.me/coderthanos) (myself) for modifying thiss Repo  .
 - Thanks to [Trio UG](https://t.me/triobots) for fast uploading method .  
 - Thanks to [NikhilL Saini](https://t.me/saini_contact_bot) for base repo & main repo 
+
+
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/BharatChhimpa/DEV-TXT-LEECH)  
